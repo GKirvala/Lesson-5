@@ -1,0 +1,177 @@
+@import url(//db.onlinewebfonts.com/c/0d49fc455f4a8951a42daf952412a713?family=Helvetica+Neue);
+body{
+    font-family: "Helvetica Neue";
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1920px;
+    width: 100%;
+    margin: auto;
+    padding-top: 40px;
+    padding-left: 240px;
+    background-color: #0A22F4;
+    position: absolute;
+    margin: auto;
+}
+nav, nav ol, nav li{
+    display: inline-block;
+}
+nav, header > a{
+    vertical-align: middle;
+}
+a{
+    text-decoration: none;
+}
+ol{
+    list-style-type: none;
+    color: #FFFFFF;
+    
+}
+.logo-text{
+    margin-left: 240px;
+    margin-top: 40px;
+} 
+nav{
+    vertical-align: middle;
+    display: inline-block;
+    display: flex;
+    justify-content:center;
+}
+li{
+    display: inline-block;
+}
+.contact-text{
+    border-radius: 28px;
+	background-color: #FFFFFF;
+	color: #171717;
+	border-radius: 28px;
+	padding-left: 10px;
+    padding-right: 9px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    size: 16px;
+}
+.image-text{
+    height: 600px;
+	max-width: 1195px;
+	width: 100%;
+	border: 15px;
+    margin-top: 110px;
+}
+section{
+    max-width: 1195px;
+	margin: auto;
+}
+.title-text{
+    size: 28px;
+    color: #171717;
+    max-width: 714px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+section img{
+    border-radius: 15px;
+    max-width: 219px;
+}
+.p{
+    color: #171717;
+	size: 16px;
+	max-width: 951px;
+	margin-right: 484px;
+    margin: auto;
+    max-width: 951px;
+	margin-top: 60px;
+}
+.pp{
+    color: #171717;
+    size: 16px;
+    max-width: 951px;
+	width: 100%;
+    margin: auto;
+    margin-top: 18px;
+    
+}
+.ppp{
+    size: 16px;
+    max-width: 951px;
+    width: 100%;
+    margin: auto;
+    margin-top: 18px;
+}
+.extrainfo{
+    size: 16px;
+    color: #FFFFFF;
+    max-width: 207px;
+    width: 100%;
+    margin: auto;
+    margin-top: 76px;
+    background-color: #0A22F4;
+    border-radius: 28px;
+    text-align: center;
+    margin-bottom: 198;
+}
+footer{
+    background-color: #0A22F4;
+    max-width: 1920px;
+    width: 100%;
+    height: 1080px;
+    margin-top: 180px;
+}
+.divv{
+  max-width: 650px;
+  height: 500px;
+  
+
+}
+.divv h3{
+    padding-left: 240px;
+    padding-top: 275px;
+    padding-right: 1518px;
+    color: #FFFFFF;
+    size: 32px;
+    max-width: 162px;
+}
+.pppp{
+    max-width: 463px;
+    padding-top: 30px;
+    text-align: center;
+    size: 16px;
+    margin: auto;
+    color: #FFFFFF;
+}
+.map{
+    max-width: 463px;
+    border-radius: 15px;
+    margin-top: 58px;
+}
+.number{
+    max-width: 178px;
+    margin: auto;
+    margin-top: 450px;
+    color: #FFFFFF;
+}
+.phone{
+    background-color: #FFFFFF;
+    max-width: 60px;
+    border-radius: 50px;
+}
+.mail{
+    background-color: #FFFFFF;
+    border-radius: 50px;
+    max-width: 26px;
+}
+.maill{
+    color: #FFFFFF;
+    max-width: 216px;
+}
+
+
+
+
+
+
